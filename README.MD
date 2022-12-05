@@ -6,4 +6,4 @@ Extensive Azure learning guides for a hypothetical Azure Pet Store walking you t
 
 > You can view the live deployment here https://azurepetstore.com  
 
-Let's build it!
+Let's build it again!
